@@ -35,8 +35,14 @@ li {
   list-style: none;
 }
 /* Layout */
+.wrap {
+  overflow: hidden;
+}
 
 /* header */
+.header-icon {
+  display: none;
+}
 .header-icon nav ul {
   position: relative;
 }
